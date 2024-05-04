@@ -6,11 +6,11 @@ import ReviewsGallery from "@/components/ReviewsGallery";
 
 export default function Home() {
   return (
-    <>
+    <div>
     <HomeBanner/>
     <DishGallery/>
     <RegisterForm/>
     <ReviewsGallery/>
-    </>
+    </div>
   );
 }
