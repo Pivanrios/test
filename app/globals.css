@@ -3,3 +3,9 @@
 @tailwind utilities;
 
 
+.btn{
+    width: 200px;
+    height: 40px;
+    border: 1px slategray solid;
+    border-radius: 3px;
+}
