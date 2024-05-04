@@ -4,7 +4,7 @@ import React from 'react'
 function Navbar() {
   return (
     <header>
-        <div className='container flex flex-row  justify-between px-5 py-2 bg-slate-500 text-white'>
+        <div className='container flex flex-row  justify-between px-5 py-2 bg-yellow-500'>
             <span>LaCooperativa</span>
             <nav className='flex flex-row gap-1'>
                 <Link href={"/about-us"}>About us</Link>

@@ -7,5 +7,10 @@
     width: 200px;
     height: 40px;
     border: 1px slategray solid;
-    border-radius: 3px;
+    border-radius: 10px;
+    
+}#item-prev{
+    border-radius: 10px;
+}img{
+    border-radius: 5px;
 }
