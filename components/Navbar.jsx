@@ -7,9 +7,9 @@ function Navbar() {
         <div className='container flex flex-row  justify-between px-5 py-2 bg-yellow-500'>
             <span>LaCooperativa</span>
             <nav className='flex flex-row gap-1'>
-                <Link href={"/about-us"}>About us</Link>
+                <Link href={"/about-us"}>About</Link>
                 <Link href={"/"}>Home</Link>
-                <Link href={"/menu"}>Menu</Link>
+                <Link href={"/platillos"}>Platillos</Link>
             </nav>
         </div>
     </header>
