@@ -10,11 +10,7 @@ function DishGallery({dishes}) {
       }<h3 className='text-3xl font-bold'>Dishes</h3>
       <div className='container flex lg:flex-row md:flex-row flex-col gap-2 justify-between'>
       {seleccion.map((d)=>{//we map to our dishes and render product component sending the information via prop
-        return(
-          <Link href={`platillos/${d.name.toLowerCase()}`}>
-            <ProductPreview d={d}/>{//we wrap our component to a specific page for our dish, *d=dish
-          }</Link>
-        )
+        return <ProductPreview d={d}/>
       })}
       </div>
       <Link href={"/platillos"} className='self-end'>mas-----</Link>

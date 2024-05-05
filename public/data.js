@@ -20,14 +20,14 @@ export const dishes = [
         price: 8,
         id:3
     },{
-        imagen: "",
+        imagen: "images/pastaAlfredo.jpeg",
         name: "Rajas",
         content: "Some content abaout the dish, lorem siponseiom...",
         price: 7,
         id:4
     },
     {
-        imagen: "",
+        imagen: "images/lasagna.jpeg",
         name: "Mole",
         content: "Some content abaout the dish, lorem siponseiom,",
         price: 8,
