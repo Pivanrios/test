@@ -6,7 +6,7 @@
 1.- Root
 2.- Nav
 3.- Home
-4.- 
+4.- form
 .- Buttons
 .- */
 
@@ -26,9 +26,21 @@
     height: 40px;
     border: 1px slategray solid;
     border-radius: 10px;
+    background-color: rgb(60, 60, 156);
+    color: wheat;
     
 }#item-prev{
     border-radius: 10px;
 }img{
     border-radius: 5px;
+}
+/*----Form----------*/
+#register-form{
+    width:auto;
+    align-items: end;
+    padding: 20px;
+
+}#register-wrapper{
+    width: auto;
+    padding: 20px;
 }
