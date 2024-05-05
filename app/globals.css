@@ -8,6 +8,7 @@
 3.- Home
 4.- form
 .- Buttons
+.- Reviews
 .- */
 
 /*1.- Root*/
@@ -43,4 +44,8 @@
 }#register-wrapper{
     width: auto;
     padding: 20px;
+}
+/*----reviews-----*/
+#review{
+    border-radius: 10px;
 }

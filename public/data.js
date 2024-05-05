@@ -38,13 +38,16 @@ export const dishes = [
 export const reviews = [
     {
         author: "Pedro",
+        rate: 3,
         content: "Todo good todo fine"
 
     },{
         author: "Peter",
+        rate:5,
         content: "no tan bien, puede mejorar"
     },{
         author: "Ivan",
+        rate:4,
         content: "saca lasagna gobernador!"
     }
 ]
