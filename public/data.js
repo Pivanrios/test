@@ -34,3 +34,17 @@ export const dishes = [
         id:5
     }
 ]
+
+export const reviews = [
+    {
+        author: "Pedro",
+        content: "Todo good todo fine"
+
+    },{
+        author: "Peter",
+        content: "no tan bien, puede mejorar"
+    },{
+        author: "Ivan",
+        content: "saca lasagna gobernador!"
+    }
+]
