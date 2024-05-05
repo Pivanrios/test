@@ -6,7 +6,7 @@ function Footer() {
         <div>
             <h3>Contact us</h3>
             <ol>
-                <div id='instagra'></div>
+                <div id='instagram'></div>
                 <div id='whatsapp'></div>
                 <div id='linkedin'></div>
             </ol>
