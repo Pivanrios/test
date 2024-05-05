@@ -4,8 +4,8 @@ function About() {
   return (
     <div className='bg-yellow-500'>
         <section className='p-2'>
-            <div className='flex  flex-col items-center px-3 py-5 bg-yellow-400 rounded-lg'>
-                <h3 className='text-2xl font-bold'>Why?</h3>
+            <div className='flex  flex-col items-center px-3 py-5 md:px-10 bg-yellow-400 rounded-lg'>
+                <h3 className='text-3xl md:text-5xl font-bold'>Why?</h3>
                 <span className='flex gap-2'>
                     <img src='../images/lasagnaCompleta.jpeg' alt='comida' width={200}/>
                     <p>
@@ -21,8 +21,8 @@ function About() {
             
         </section>
         <section className='p-2'>
-            <div className='flex  flex-col items-center px-3 py-5 bg-yellow-400 rounded-lg'>
-                <h3 className='text-2xl font-bold'>How?</h3>
+            <div className='flex  flex-col items-center px-3 md:px-10 py-5 bg-yellow-400 rounded-lg'>
+                <h3 className='text-3xl md:text-5xl font-bold'>How?</h3>
                 <span className='flex gap-2'>
                     <p>
                         Entregamos tu comida casera preparada por companeros de trabajo, 

@@ -12,9 +12,9 @@ We use nextjs in our project for its easy route system and
 
 ## TailwindCSS
 ### h1,h2,h3,h4
-- h1 - 4xl
-- h2 - 3xl
-- h3 - 2xl
+- h1 - 6xl - 3xl
+- h2 - 3xl - xl
+- h3 - 3xl - xl
 - h4 - xl
 ### text color 
 primary - black
