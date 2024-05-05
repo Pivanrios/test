@@ -5,6 +5,7 @@ import ReviewsGallery from "@/components/ReviewsGallery";
 import Footer from "@/components/Footer";
 //data
 import { dishes } from "@/public/data";
+import React from "react";
 
 
 export default function Home() {
@@ -14,7 +15,6 @@ export default function Home() {
       <DishGallery dishes={dishes} />
       <RegisterForm/>
       <ReviewsGallery/>
-      <Footer/>
     </div>
   );
 }
