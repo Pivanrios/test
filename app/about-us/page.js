@@ -9,11 +9,10 @@ function About() {
                 <span className='flex gap-2'>
                     <img src='../images/lasagnaCompleta.jpeg' alt='comida' width={200}/>
                     <p>
-                        No todos tenemos tiempo para preparar nuestro lonche,
-                        y la comida congelada dentro de las empresas no siempre
-                        es la opcion mas saludable, y los servicios de reparticion
-                        no suele ser la opcion mas economica.
-                        Abriendo un canal de comunicaion podemos ampliar nuestras
+                        No todos tenemos tiempo para preparar nuestro lonche todos los dias.
+                        La comida congelada dentro de las empresas suele ser la opcion mas saludable, 
+                        y mientras que los servicios de reparticion suelen ser caros.
+                        Abriendo un canal de comunicaion entre los companeros podemos ampliar nuestras
                         opciones y crear un menu variado que satisfaga los gustos de todos.
                     </p>
                 </span>
@@ -31,7 +30,7 @@ function About() {
                         grupo de whatsapp o por mensaje al numero (646) 123-2222.<br/>
                         Mandas tu comprobante de transferencia por zelle o bbva.
                     </p>
-                    <img src='../images/lasagnaCompleta.jpeg' alt='comida' width={200}/>
+                    <img src='../images/lasagnaCompleta.jpeg' alt='comida' width={200} className=' rounded-full'/>
                 </span>
             </div>
         </section>
